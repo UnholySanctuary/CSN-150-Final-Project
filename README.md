@@ -16,7 +16,11 @@ Description: I am interested in this software because I believe it will better e
 ## Steps
 1. Searched parental control software on Google and clicked on the Allow2 link.
 2. Navigated the home page and clicked on the try it link.
-3. Watched the introductory video at the top of the page. <iframe width="560" height="315" src="https://www.youtube.com/embed/bvRTCNMMq7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+3. Watched the introductory video at the top of the page. 
+
+Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bvRTCNMMq7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 4. Clicked on the “Start Using Allow2” button at the bottom of the page.
 5. Created an account.
 6. Followed the prompts to add my child and then set restrictions and timers.
