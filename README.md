@@ -24,3 +24,5 @@ Description: I am interested in this software because I believe it will better e
 ## Conclusion
 
 From the video demonstration I can link different apps and devices to the Allow2. The free option allows for setting up Parental Controls for 1 child across multiple devices and there are three different subscriptions services with increasing perks the higher you go. I can select the day type and what is allowed on said day such as a sick day, holiday, and school day. There is an allow times tab to set up the length of time a device and app could be used, and overall I like the look, format, and options provided by this. It definitely feels like it is the extra layer of protection I have  been looking to add to my children’s devices. There is also an option for my child to send requests for more time or to download something which is also a plus.
+
+! [Happy Children](https://github.com/UnholySanctuary/CSN-150-Final-Project/blob/main/Happy%20Children.jpg)
