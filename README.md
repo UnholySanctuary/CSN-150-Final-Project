@@ -1,5 +1,5 @@
 # CSN-150-Final-Project
-*Allow2
+*Allow2*
 [Github markdown] (https://allow2.github.io/)
 
 ## Summary
