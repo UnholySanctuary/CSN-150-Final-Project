@@ -11,6 +11,7 @@ Name: Allow2 Parental Freedom Platform
 
 Description: I am interested in this software because I believe it will better enforce protecting my children from sites, links, and videos that my children are not supposed to have access to. Main reason for me searching for something like this in the first place is because despite me using YouTube’s parental control features my son was still able to watch videos inappropriate for a 6-year-old.
 
+! [Bad Websites](https://github.com/UnholySanctuary/CSN-150-Final-Project/blob/main/Bad%20Websites.jpg)
 
 ## Steps
 1. Searched parental control software on Google and clicked on the Allow2 link.
